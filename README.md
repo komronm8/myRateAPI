@@ -4,7 +4,8 @@ This API provides endpoints for storing, retrieving, updating, and deleting addr
 ### Prerequisites
 - Docker must be installed on your system
 ### Set Up
-1. **Clone the repository:**
+The following are done in the terminal.
+1. **Clone the repository into a folder:**
 ```
 git clone https://github.com/komronm8/myRateAPI.git
 cd myRateAPI
